@@ -17,6 +17,6 @@
 3. הרצת one_piece_nlp_project.ipynb
 
 המחברת המלאה (רצה מקצה לקצה), הקוד והנתונים זמינים במאגר הפרויקט:
-https://github.com/NadavFireman/One-Piece-NLP-Project
+https://github.com/NadavFireman/Natural-Language-Processing-Project-One-Piece
 
 הערה: onepiece_raw.csv שוקל כ-27MB וכלול במאגר. ניתן לשחזרו במלואו מאפס עם data_collection.py (שלב 2).
