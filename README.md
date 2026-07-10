@@ -30,6 +30,8 @@ The "bounty" in *One Piece* is a quantitative threat score the story's governmen
 - `onepiece_raw.csv`: Raw collected dataset (~27MB, 1,734 rows).
 - `one_piece_report.pdf`: Full project report.
 - `one_piece_bounty_presentation.pdf`: Project presentation.
+- `Final_Project_Instructions.pdf`: Original course guidelines for the final project.
+- `Project_Proposal.pdf`: The approved project proposal — research question, data collection plan and evaluation methodology.
 - `DATA.md` / `ETHICS.md` / `REFLECTION.md` / `AI_USAGE.md`: Data provenance, ethics, personal reflection, and AI-usage documentation.
 
 ## Dataset
