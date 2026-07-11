@@ -1,7 +1,6 @@
 # DATA - מקור, רישיון ושחזור
 
 פרויקט: חיזוי Bounty בעולם One Piece (NLP + ניתוח רשתות)
-מגיש: נדב פיירמן שטרן (207018250)
 
 מקור: One Piece Fandom Wiki דרך ה-API הציבורי - https://onepiece.fandom.com/api.php
 איסוף עצמאי, בלי Kaggle או מאגר מוכן.
