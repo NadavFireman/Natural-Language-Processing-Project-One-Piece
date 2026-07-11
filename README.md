@@ -1,4 +1,4 @@
-# Natural Language Processing Project - One Piece
+# Natural Language Processing Final Project - One Piece
 
 **Final Project (M.Sc. Data Science, HIT). Predicting the bounties of *One Piece* characters — a quantitative threat score — from wiki text combined with a character-relationship network. Data collected independently from the One Piece Fandom Wiki API; no Kaggle or pre-built dataset.**
 
